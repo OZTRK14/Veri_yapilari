@@ -1,0 +1,8 @@
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\bin\Debug\TekliLinkedList.exe.config
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\bin\Debug\TekliLinkedList.exe
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\bin\Debug\TekliLinkedList.pdb
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\obj\Debug\TekliLinkedList.csproj.AssemblyReference.cache
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\obj\Debug\TekliLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\obj\Debug\TekliLinkedList.csproj.CoreCompileInputs.cache
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\obj\Debug\TekliLinkedList.exe
+D:\Zula\GitHub\Veri_yapilari\TekliLinkedList\TekliLinkedList\obj\Debug\TekliLinkedList.pdb

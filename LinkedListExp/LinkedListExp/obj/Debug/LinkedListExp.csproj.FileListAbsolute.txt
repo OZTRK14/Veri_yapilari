@@ -1,0 +1,8 @@
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\bin\Debug\LinkedListExp.exe.config
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\bin\Debug\LinkedListExp.exe
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\bin\Debug\LinkedListExp.pdb
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\obj\Debug\LinkedListExp.csproj.AssemblyReference.cache
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\obj\Debug\LinkedListExp.csproj.SuggestedBindingRedirects.cache
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\obj\Debug\LinkedListExp.csproj.CoreCompileInputs.cache
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\obj\Debug\LinkedListExp.exe
+D:\Zula\GitHub\Veri_yapilari\LinkedListExp\LinkedListExp\obj\Debug\LinkedListExp.pdb
